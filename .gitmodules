@@ -1,0 +1,3 @@
+[submodule "blox.component.bio.quiz"]
+	path = blox.component.bio.quiz
+	url = https://github.com/richjava/blox.component.bio.quiz.git
